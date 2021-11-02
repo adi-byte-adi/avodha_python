@@ -1,0 +1,6 @@
+str1 = input("Please Enter your Own String : ")
+ 
+for i in range(len(str1)):
+    if alpha_letters == 'e' or alpha_letters=='s':
+        continue      
+    print (str[i]) 
